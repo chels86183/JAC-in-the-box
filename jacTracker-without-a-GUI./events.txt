@@ -1,4 +1,0 @@
-Name: Tired-O-clock
-Location: my house
-Date: 02/09/2023
-
